@@ -66,7 +66,8 @@ containing customer, product, promotion and transaction data.
 
 ## Files
 
-- `ElectroHub.pbix` — Power BI project file
-- `ElectroHub.pdf` — Dashboard report
-- `Dashboard.png` — Dashboard preview
-- `README.md` — Project documentation
+- [📊 Power BI Dashboard](./ElectroHub.pbix) — Original Power BI project file
+- [🎞️ Animated Dashboard](./ElectroHub_Dashboard_Animated.pptx) — Animated presentation of the dashboard
+- [🖼️ Dashboard Preview](./dashboard.png) — Dashboard screenshot
+- [📋 Project Requirements](./requirements.png) — Project requirements
+- [📁 Dataset](./Store%2BData.xlsx) — Excel dataset used for analysis
