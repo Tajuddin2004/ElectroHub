@@ -6,7 +6,7 @@ promotions, and geographical sales performance.
 
 ## Dashboard Preview
 
-![ElectroHub](Dashboard.png)
+![ElectroHub](dashboard.png)
 
 ## Tools & Technologies
 
